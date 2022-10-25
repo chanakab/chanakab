@@ -12,13 +12,7 @@
 
 </div>
 
-<h3 align="center" style="color:#ffffff;">Connect with me:</h3>
-<p align="center">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="color:#ffffff;" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 <div align="center">
   
@@ -26,13 +20,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanakab)](https://github.com/chanakab/)
 
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+  <h3 align="center" style="color:#ffffff;">Connect with me:</h3>
+<p align="center">
+<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/fb.png" alt="" height="30" width="30" /></a>
+<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/tw.png" alt="" height="30" width="30" /></a>
+<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/ig.png" alt="" height="30" width="30" /></a>
+<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/yt.png" alt="" height="30" width="30" /></a>
+</p>
+ 
   
 </div>
 
