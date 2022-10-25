@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Chanaka+Basnayake)](https://git.io/typing-svg)
 
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
 <!--
 **chanakab/chanakab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
