@@ -23,10 +23,11 @@
 
   <h3 align="center" style="color:#ffffff;">Connect with me:</h3>
 <p align="center">
-<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/fb.png" alt="" height="30" width="30" /></a>
-<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/tw.png" alt="" height="30" width="30" /></a>
-<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/ig.png" alt="" height="30" width="30" /></a>
-<a href="your link" target="blank"><img align="center" src="http://moh-erp.site/backup_image/yt.png" alt="" height="30" width="30" /></a>
+<a href="https://www.facebook.com/chanaka.basnayake/" target="blank"><img align="center" src="http://moh-erp.site/backup_image/fb.png" alt="" height="30" width="30" /></a>
+<a href="https://twitter.com/chanakabgmailc1" target="blank"><img align="center" src="http://moh-erp.site/backup_image/tw.png" alt="" height="30" width="30" /></a>
+<a href="https://www.instagram.com/basnayakechanaka/" target="blank"><img align="center" src="http://moh-erp.site/backup_image/ig.png" alt="" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCLzvWUbcvLIUDU0gLCGpl0w" target="blank"><img align="center" src="http://moh-erp.site/backup_image/yt.png" alt="" height="30" width="30" /></a>
+  <a href="https://web.whatsapp.com/send?phone=+94719751707&text=Hello..! Welcome" target="blank"><img align="center" src="http://moh-erp.site/backup_image/wa.png" alt="" height="30" width="30" /></a>
 </p>
  
   
