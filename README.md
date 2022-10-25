@@ -6,6 +6,8 @@
 
 </div>
 
+I am a Developer with good expertise in HTML5, CSS3, PHP, MySQL, and WordPress and I have 15 years of working experience in related fields. I consider myself a highly professional and target-oriented person to meet all of my client's requirements. In addition to my years of experience, I am growing as a world-class Web Developer full of professionalism and of course the thing called “Passion”.
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chanakab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
