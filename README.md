@@ -4,6 +4,10 @@
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 <!--
 **chanakab/chanakab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
