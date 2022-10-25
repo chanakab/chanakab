@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Chanaka+Basnayake)](https://git.io/typing-svg)
 
-
-CSS        10 mins         ███████████████░░░░░░░░░░   60.42 %
-HTML       5 mins          ████████░░░░░░░░░░░░░░░░░   32.17 %
-Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-
-
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
