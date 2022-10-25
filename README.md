@@ -1,13 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Chanaka+Basnayake)](https://git.io/typing-svg)
 
-## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+CSS        10 mins         ███████████████░░░░░░░░░░   60.42 %
+HTML       5 mins          ████████░░░░░░░░░░░░░░░░░   32.17 %
+Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+
+
+
+
+
+
+
+
+
 <!--
 **chanakab/chanakab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
